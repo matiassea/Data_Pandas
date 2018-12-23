@@ -12,3 +12,21 @@ At a high level, EDA is the practice of using visual and quantitative methods to
 
 ## Step 3: Dealing with Missing Values
 
+![dealing with missing values](https://user-images.githubusercontent.com/17385297/50379995-47433480-0639-11e9-82ca-2d10cb5de534.PNG)
+
+## Step 4: Dealing with Outliers
+This is not a tutorial on drafting a strategy to deal with outliers in your data when modeling; there are times when including outliers in modeling is appropriate, and there are times when they are not (regardless of what anyone tries to tell you). This is situation-dependent, and no one can make sweeping assertions as to whether your situation belongs in column A or column B. 
+
+## Step 5: Dealing with Imbalanced Data
+
+
+## Step 6: Data Transformations
+In statistics, data transformation is the application of a deterministic mathematical function to each point in a data set — that is, each data point zi is replaced with the transformed value yi = f(zi), where f is a function. Transforms are usually applied so that the data appear to more closely meet the assumptions of a statistical inference procedure that is to be applied, or to improve the interpretability or appearance of graphs. 
+
+
+## Step 7: Finishing Touches & Moving Ahead
+
+Source: https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html
+
+
+
