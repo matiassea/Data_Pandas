@@ -7,6 +7,13 @@ Only code and tips about Pandas
 ## Data wrangling
 ...the process of manually converting or mapping data from one "raw" form into another format that allows for more convenient consumption of the data with the help of semi-automated tools. This may include further munging, data visualization, data aggregation, training a statistical model, as well as many other potential uses. Data munging as a process typically follows a set of general steps which begin with extracting the data in a raw form from the data source, "munging" the raw data using algorithms (e.g. sorting) or parsing the data into predefined data structures, and finally depositing the resulting content into a data sink for storage and future use. 
 
+![data wrangling 2](https://user-images.githubusercontent.com/17385297/50380033-2af3c780-063a-11e9-81ce-13c3888c313d.PNG)
+
+![data wrangling 3](https://user-images.githubusercontent.com/17385297/50380034-2e874e80-063a-11e9-9cfb-8fd6961472c2.PNG)
+
+![data wrangling](https://user-images.githubusercontent.com/17385297/50380035-33e49900-063a-11e9-9289-9f2de4e7ee9d.PNG)
+
+
 ## Step 2: Exploratory Data Analysis
 At a high level, EDA is the practice of using visual and quantitative methods to understand and summarize a dataset without making any assumptions about its contents. It is a crucial step to take before diving into machine learning or statistical modeling because it provides the context needed to develop an appropriate model for the problem at hand and to correctly interpret its results.
 
